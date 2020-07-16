@@ -1,5 +1,5 @@
 # UnityMobileNotification
-Unity Porject Templete Feature of Mobile Notification.
+Unity Porject Templete Featured of Mobile Notification.
 
 ## Features (TODO)
 * Local Notifications
